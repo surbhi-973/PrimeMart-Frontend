@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://primemartbackend-qcn5.onrender.com",
+  "proxy": "https://primemartbackend-qcn5.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
